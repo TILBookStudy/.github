@@ -14,6 +14,7 @@
   - [레포 링크](https://github.com/TILBookStudy/backjoon-study)
   - 같은 백준 문제집을 풀고 일정시간마다 발표하는 스터디입니다.
   - 백준 그룹기능을 적극 차용
+    - [그룹 링크](https://www.acmicpc.net/group/22733)
   - 참여자
     - 배제우 : jeus1998
       - [깃허브 링크](https://github.com/jeus1998)
