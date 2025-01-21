@@ -9,6 +9,18 @@
       - [깃허브 링크](https://github.com/jeus1998)
     - 이건희 : hegunhee
       - [깃허브 링크](https://github.com/hegunhee)
+     
+- 백준 스터디
+  - [레포 링크](https://github.com/TILBookStudy/backjoon-study)
+  - 같은 백준 문제집을 풀고 일정시간마다 발표하는 스터디입니다.
+  - 백준 그룹기능을 적극 차용
+  - 참여자
+    - 배제우 : jeus1998
+      - [깃허브 링크](https://github.com/jeus1998)
+    - 진관호 : kwanho12
+      - [깃허브 링크](https://github.com/kwanho12)
+    - 이건희 : hegunhee
+      - [깃허브 링크](https://github.com/hegunhee)
 
 <!--
 
