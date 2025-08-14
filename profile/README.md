@@ -1,6 +1,6 @@
 ## TIL 공유 스터디에서 북 스터디로 발전했습니다.
 
-# 현재 진행중 스터디
+# 스터디
 - Real Mysql 8.0
   - [레포 링크](https://github.com/TILBookStudy/Real-Mysql8.0-Study)
   - Real Mysql 8.0을 읽고 정리한 내용을 공유하는 스터디입니다.
